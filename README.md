@@ -1,7 +1,6 @@
 # ritu
 
-A new Flutter project.
-
+A wheather Application
 ## Getting Started
 
 This project is a starting point for a Flutter application.
